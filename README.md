@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to get a job in the Data Science World
-- 📫 www.danieldobrenz.com
+
 
 <!---
 danieldobrenz/danieldobrenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
